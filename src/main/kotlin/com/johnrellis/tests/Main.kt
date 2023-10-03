@@ -1,3 +1,5 @@
+package com.johnrellis.tests
+
 fun main(args: Array<String>) {
     println("Hello World!")
 

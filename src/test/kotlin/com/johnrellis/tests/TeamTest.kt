@@ -1,3 +1,7 @@
+package com.johnrellis.tests
+
+import com.johnrellis.tests.Person
+import com.johnrellis.tests.Team
 import org.junit.jupiter.api.Test
 
 import org.junit.jupiter.api.Assertions.*

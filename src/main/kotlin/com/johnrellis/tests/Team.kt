@@ -1,3 +1,5 @@
+package com.johnrellis.tests
+
 class Team {
     private val members = hashSetOf<Person>()
 
